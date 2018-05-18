@@ -1,5 +1,5 @@
 # Udacity/Bertelsmann - Data Science Challenge Scholarship
-This challenge is a Phase I of Scholarship given by Bertelsmann via Udacity. In this phase, 15,000 participants worldwide were selected. The top 10% will be selected to learn further in one of fully-funded courses of Udacity's data related nanodegree, which are Data Foundation, Business Analytics, and Data Analytics.
+This challenge is the Phase I of Scholarship given by Bertelsmann via Udacity. In this phase, 15,000 participants worldwide were selected. The top 10% will be selected to learn further in one of fully-funded courses of Udacity's data related nanodegree, which are Data Foundation, Business Analytics, and Data Analytics.
 
 It has two sections, which are the core concept and advance concept. The core concept is about Introduction to Descriptive Statistic. The advance concept has two topics, which are Basics Python and Basics SQL. This type of course has a lot of quizzes, to help us to have deeper understanding about the concept and practice by solving problems from different point of view.
 
